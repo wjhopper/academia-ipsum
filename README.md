@@ -1,5 +1,5 @@
 # academia-ipsum
-A template for building an academic website with using [Pelican](http://blog.getpelican.com/) Static Site Generator, powered by [Python](https://www.python.org/). Based on the [academia theme](https:/github.com/wjhopper/academia). See it in action at http://people.umass.edu/whopper
+A template for building an academic website with [Pelican](http://blog.getpelican.com/) Static Site Generator, powered by [Python](https://www.python.org/). Based on the [academia theme](https:/github.com/wjhopper/academia). See it in action at http://people.umass.edu/whopper
 
 #### Dependencies
 An installation of Python. If you don't have python installed already installed, you can install the most recent Python release [from here](https://www.python.org/downloads/release/python-352/). Alternatively, you can install base python along with many commonly used packages by installing the [Anaconda](https://www.continuum.io/downloads) Python distribution.
