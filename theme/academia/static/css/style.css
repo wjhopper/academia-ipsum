@@ -130,6 +130,13 @@ sup {
 
 /* Classes and ID's
 ____________________________________________________*/
+#archive_link {
+    display: block;
+    margin: 15px auto 0;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: underline;
+}
 
 #author {
   font-size: 22px;
@@ -307,6 +314,18 @@ ____________________________________________________*/
 .page_listing p {
   margin: 0 0 5px 0;
   padding: 0 5px;
+}
+
+.paginator {
+  margin: 10px auto;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.paginator a{
+  padding-left: 10px;
 }
 
 .post_detail {
